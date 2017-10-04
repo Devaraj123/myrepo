@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: 172.31.17.242:5000/sys/gceme:1.0
+        image: 172.31.39.169:5000/sys/gceme:1.0
         resources:
           limits:
             memory: "500Mi"
